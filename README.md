@@ -2,9 +2,11 @@
 
 **pi3.14** is an IOS app that calculates pie using the Nilakantha series.
 
-Check out the app below:
+Happy pie day guys!
 
-<img src='http://mkgo.co/flicks.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+#Here's the app!:
+
+<img src='https://github.com/mgonzales7/pi3.14/blob/master/pie.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
