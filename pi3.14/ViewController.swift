@@ -35,6 +35,12 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        pie = 3
+        a = 2
+        b = 3
+        c = 4
+        x = 1
+        
         // Do any additional setup after loading the view, typically from a nib
         
         
